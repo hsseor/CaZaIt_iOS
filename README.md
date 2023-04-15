@@ -1,2 +1,2 @@
-# CaZaIt_iOS
-CaZaIt_iOS
+# CaZaIt-iOS
+CaZaIt iOS Repository
